@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning generative models (it's soooo fantastic)
 - 💞️ I’m looking to collaborate on protein generation, durg design ...
 - 📫 How to reach me ... Just contact me via email: `zichongwang04@gmail.com`
-- ⚡ Fun fact: ...Hard to get up in the morning
+- ⚡ Fun fact: ...Hard to get up in the morning, any one can help me?
 
 <!---
 ZichongWang/ZichongWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

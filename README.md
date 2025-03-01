@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ZichongWang, a junior student in School of Statistics, Renmin University of China (RUC)
-- 👀 I’m interested in applicance of statistic and AI tools on the field of biology
+- 👀 I’m interested in applicance of statistic and AI tools on the field of biology, especially protein-related biological process
 - 🌱 I’m currently learning generative models (it's soooo fantastic)
 - 💞️ I’m looking to collaborate on protein generation, durg design ...
 - 📫 How to reach me ... Just contact me via email: `zichongwang04@gmail.com`
 - ⚡ Fun fact: ...Hard to get up in the morning, any one can help me?
+
+Recently, we released [ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation](https://github.com/AngxiaoYue/ReQFlow). Check it out!
 
 <!---
 ZichongWang/ZichongWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

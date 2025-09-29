@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ZichongWang, a junior student in School of Statistics, Renmin University of China (RUC)
+- 👋 Hi, I’m @ZichongWang, a senior student in School of Statistics, Renmin University of China (RUC)
+- 🏫 Starting Fall 2026, I will pursue my Ph.D. in the Department of Statistics and Data Science at Tsinghua University, advised by [Prof. Jianqiao Wang](jianqiao.me)
 - 👀 I’m interested in applicance of statistic and AI tools on the field of biology, especially protein-related biological process
 - 🌱 I’m currently learning generative models (it's soooo fantastic)
 - 💞️ I’m looking to collaborate on protein generation, durg design ...
